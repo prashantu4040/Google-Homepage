@@ -10,7 +10,6 @@ html, body {
     margin-top: 20px;
 }
 
-
 a:hover {
     text-decoration: underline;
 }
@@ -54,25 +53,25 @@ a:hover {
 }
 
 #voice img {
-    width: 30px;
+    width: 40px;
 }
 
 #search {
-    left: 15px;
+    left: 10px;
 }
 
 #voice {
-    right: 15px;
+    right: 5px;
 }
 #searchbar {
     padding-top: 10px;
     padding-bottom: 10px;
     outline: 0;
     width: 500px;
-    padding-left: 35px;
-    padding-right: 35px;
+    padding-left: 40px;
+    padding-right: 40px;
     border-radius: 20px;
-    border: 1px solid rgb(185, 185, 185);
+    border: 1px solid rgb(219, 219, 219);
 }
 
 #searchbar:hover{
@@ -119,7 +118,6 @@ body {
     display: flex;
     justify-content: space-between;
 }
-
 
 #footer {
     background: #eee;
