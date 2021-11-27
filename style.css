@@ -53,7 +53,7 @@ a:hover {
 }
 
 #voice img {
-    width: 40px;
+    width: 20px;
 }
 
 #search {
@@ -61,7 +61,7 @@ a:hover {
 }
 
 #voice {
-    right: 5px;
+    right: 10px;
 }
 #searchbar {
     padding-top: 10px;
